@@ -93,3 +93,5 @@ ENV/
 
 #ignore youtube-dl-webui source
 src/
+bin/
+lib64/
