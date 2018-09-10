@@ -95,4 +95,6 @@ ENV/
 src/
 bin/
 lib64/
+lib64
 lib/
+
