@@ -3,3 +3,5 @@ A quick and dirty development environment setup for working on youtube-dl-webui.
 Clone this repo, then cd into it and run venv-setup.sh.
 
 It will install python 3 if not already installed, setup virtual environment, activate it and upgrade pip, install requirements and clone the real source for youtube-dl-webui
+
+After it has done, you can then do git actions in the "src" directory for the source, or actions in the "dev" directory for dev stuff (though I probably won't accept commits on any forks you do on the dev project!)
